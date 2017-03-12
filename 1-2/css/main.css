@@ -59,7 +59,6 @@ header ul li
 	/*clear: both;*/
 	margin: 0 auto;
 	width: 65%;
-	background-color: #e8e8e8;
 	padding: 15px;
 }
 .wrap img
@@ -73,6 +72,8 @@ section
 	background-color: #fff;
 	line-height: 40px;
 	padding: 15px;
+	box-shadow: 5px 5px 5px #858585;/*加了阴影*/
+	border: 2px solid rgba(0,0,0,0.2);
 }
 .section-two
 {
@@ -125,11 +126,16 @@ section
 	border-bottom: .2em solid #4ca;
 	margin-bottom: .5em;
 }
+.section-three h1  /*加入小竖条*/
+{
+	border-left: 4px solid #08A202;
+	padding-left: 10px;
+}
 /*第四个div*/
 .section-three
 {
 	margin-top: 15px;
-	background-color: #08F4A1;
+	background-color: #e8e8e8;
 }
 #location
 {
@@ -148,4 +154,12 @@ section
 	padding: .5em 2em .55em;
 	border-radius: .5em;
 	box-shadow: 0 10px 10px rgba(0,0,0,0.4);
+}
+footer
+{
+	text-align: center;
+	background-color: #999;
+	line-height: 100px;
+	color: #fff;
+	font-weight: solid;
 }
