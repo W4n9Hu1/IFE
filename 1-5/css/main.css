@@ -1,0 +1,180 @@
+@charset"utf-8";
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+	outline: 0px;
+	border: 0px;
+}
+body
+{
+	min-width: 900px;
+}
+a
+{
+	padding: 0 15px;
+	text-decoration: none;
+	color: #666;
+}
+a:hover
+{
+	color: #999;
+}
+p
+{
+	text-indent: 2em; /*首行缩进*/
+}
+/*header*/
+header
+{
+	background-color: #fff;
+	/*position: fixed;*/
+	display: block;
+	width: 100%;
+	height: 60px;
+	z-index: 20;
+	box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+.logo
+{
+	display: block;
+	background: url(../img/logo.png) center no-repeat;
+	text-indent: -9999em;
+	width: 120px;
+	float: left;
+	height: 60px;
+	margin-left: 100px;
+}
+header ul
+{
+	float: right;
+	margin-right: 100px;
+}
+header ul li
+{
+	float: left;
+	list-style: none;
+	font-size: 14px;
+	line-height: 60px;
+}
+/*wrap 开始*/
+.all
+{
+	overflow: auto;
+	position: relative;
+}
+.wrap
+{
+	/*clear: both;*/
+	margin-right: 400px;
+	padding: 15px;
+	float: left;
+}
+.wrap img
+{
+	display: block;
+	margin: 10px auto;
+	width: 60%;
+}
+section
+{
+	/*background-color: #fff;*/
+	background-color: #e8e8e8;
+	line-height: 40px;
+	padding: 15px;
+	box-shadow: 5px 5px 5px #858585;/*加了阴影*/
+	border: 2px solid rgba(0,0,0,0.2);
+}
+.section-two
+{
+	margin-top: 15px;
+}
+.writer
+{
+	font-size: 12px;
+	color: #999;
+}
+/*第二个div*/
+.img-content
+{
+	width: 300px;
+	float: left;
+	background-color: #e8e8e8;
+	margin: 15px;
+}
+.img-text
+{
+	text-align: center;
+	font-size: 
+	margin: 10px;
+}
+.clear
+{
+	clear: both;
+}
+/*第三个div*/
+#demo-table th,td
+{
+	text-align: center;
+	line-height: 50px;
+	border: 1px solid #000;
+}
+#demo-table
+{
+	font: 100% sans-serif;
+	background-color: #efe;
+	border-collapse: collapse;
+	border: 1px solid #7a7;
+	width: 60%;
+	margin: 0 auto;
+}
+#demo-table > caption
+{
+	text-align: left;
+	font-weight: bold;
+	font-size: 200%;
+	border-bottom: .2em solid #4ca;
+	margin-bottom: .5em;
+}
+.section-three h1  /*加入小竖条*/
+{
+	border-left: 4px solid #08A202;
+	padding-left: 10px;
+}
+/*第四个div*/
+.section-three
+{	
+	width: 360px;
+	background-color: #e8e8e8;
+	float: left;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+#location
+{
+	margin: 0 40px;
+}
+#submit
+{
+	float: right;
+	margin-right: 100px;
+}
+.btn
+{
+	display: inline-block;
+	cursor: pointer;/*鼠标变手*/
+	text-align: center;
+	padding: .5em 2em .55em;
+	border-radius: .5em;
+	box-shadow: 0 10px 10px rgba(0,0,0,0.4);
+}
+footer
+{
+	width: 100%;
+	text-align: center;
+	background-color: #999;
+	line-height: 100px;
+	color: #fff;
+	font-weight: solid;
+}

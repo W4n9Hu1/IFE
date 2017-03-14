@@ -7,6 +7,10 @@
 	border: 0px;
 	box-sizing: border-box;
 }
+.all
+{
+	overflow: auto;
+}
 .content
 {
 	border: 1px solid #999;
