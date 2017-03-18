@@ -6,9 +6,14 @@
 4. [任务四：定位和居中问题](https://w4n9hu1.github.io/IFE/1-4/)
 5. [任务五：零基础HTML及CSS编码（二）](https://w4n9hu1.github.io/IFE/1-5/)
 6. [任务六：通过HTML及CSS模拟报纸排版](https://w4n9hu1.github.io/IFE/1-6/)
-7. [任务七：实现常见的技术产品官网的页面架构及样式布局]() 还没做
+7. [任务七：实现常见的技术产品官网的页面架构及样式布局]() !
 8. [任务八：响应式网格（栅格化）布局](https://w4n9hu1.github.io/IFE/1-8/)
+9. [使用HTML/CSS实现一个复杂页面使用HTML/CSS实现一个复杂页面] !
+10. [任务十：Flexbox 布局练习]() !
+11. [任务十一：移动Web页面布局实践]() !
+12. [任务十二：学习CSS 3的新特性]() !
 
 ## Notes
 - [css常见布局](https://github.com/W4n9Hu1/IFE/issues/1)
 - [响应式网格（栅格化)](https://github.com/W4n9Hu1/IFE/issues/2)
+- [Flexbox 布局](https://github.com/W4n9Hu1/IFE/issues/3)
