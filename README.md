@@ -1,5 +1,5 @@
 # 小薇学院
-## Task
+## Tasks
 1. [任务一：零基础HTML编码](https://w4n9hu1.github.io/IFE/1-1/HTML1)
 2. [任务二：零基础HTML及CSS编码（一）](https://w4n9hu1.github.io/IFE/1-2/HTML&CSS.html)
 3. [任务三：三栏式布局](https://w4n9hu1.github.io/IFE/1-3/三栏式布局.html)
