@@ -11,7 +11,7 @@
 9. [任务九：使用HTML/CSS实现一个复杂页面]() !
 10. [任务十：Flexbox 布局练习](https://w4n9hu1.github.io/IFE/1-10/) 
 11. [任务十一：移动Web页面布局实践]() !
-12. [任务十二：学习CSS 3的新特性]() !
+12. [任务十二：学习CSS 3的新特性](https://w4n9hu1.github.io/IFE/1-12/) 
 
 ## Notes
 - [css常见布局](https://github.com/W4n9Hu1/IFE/issues/1)
