@@ -12,8 +12,11 @@
 10. [任务十：Flexbox 布局练习](https://w4n9hu1.github.io/IFE/1-10/) 
 11. [任务十一：移动Web页面布局实践]() !
 12. [任务十二：学习CSS 3的新特性](https://w4n9hu1.github.io/IFE/1-12/) 
-
+# 斌斌学院
+## Tasks
+1. [任务一：零基础JavaScript编码（一）](https://w4n9hu1.github.io/IFE/2-1/)
 ## Notes
 - [css常见布局](https://github.com/W4n9Hu1/IFE/issues/1)
 - [响应式网格（栅格化)](https://github.com/W4n9Hu1/IFE/issues/2)
 - [Flexbox 布局](https://github.com/W4n9Hu1/IFE/issues/3)
+- [JavaScript入门](https://github.com/W4n9Hu1/IFE/issues/4)
